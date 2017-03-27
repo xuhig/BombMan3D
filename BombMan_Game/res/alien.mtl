@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:29.05.2016 09:54:17
+
+newmtl mat1
+	Ns 30.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.55 0.55 0.55
+	Kd 0.55 0.55 0.55
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka F:\安装包存放\anew\loading_picking_moving_objects\Release\Models\Alien2\alien2Tex1.bmp
+	map_Kd F:\安装包存放\anew\loading_picking_moving_objects\Release\Models\Alien2\alien2Tex1.bmp
